@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @MinecraftFan19283
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Python and Scratch.
+
